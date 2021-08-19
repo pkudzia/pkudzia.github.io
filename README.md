@@ -1,2 +1,2 @@
 # pkudzia.github.io
-Pawel Kudzia website
+This is my personal [website](pkudzia.github.io)
