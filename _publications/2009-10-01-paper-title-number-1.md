@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Under the Roof of Rebels: Civilian Targeting After Territorial Takeover in Sierra Leone"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+permalink: /publication/2020-civilian-targeting
+date: 2020-06-08
+venue: 'International Studies Quarterly'
+paperurl: '/files/pdf/research/Under the Roof of Rebels.pdf'
+link: 'https://doi.org/10.1093/isq/sqaa009'
+code: 'https://doi.org/10.7910/DVN/BEKPWV'
+citation: 'Oswald, Christian, Melanie Sauter, Sigrid Weber, and Rob Williams.<sup>*</sup> 2020. &quot;Under the Roof of Rebels: Civilian Targeting After Territorial Takeover in Sierra Leone.&quot; <i>International Studies Quarterly</i> 64(2): 295–305. doi:10.1093/isq/sqaa009'
