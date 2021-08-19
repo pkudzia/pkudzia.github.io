@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pawel Kudzia, PhD(c),MASc,B.Eng"
+title                    : "Pawel Kudzia"
 title_separator          : "-"
 name                     : &name "Pawel Kudzia"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Pawel Kudzia"
   avatar           : "Profile_Pawel.png"
   bio              : "PhD Candidate"
-  location         : "Vancouver,Canada"
+  location         : "Vancouver, Canada"
   employer         : "Simon Fraser University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=E6ib0I0AAAAJ&view_op=list_works&sortby=pubdate"
