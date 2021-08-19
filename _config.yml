@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pawel Kudzia"
+title                    : "Pawel Kudzia, PhD(c),MASc,B.Eng"
 title_separator          : "-"
 name                     : &name "Pawel Kudzia"
 description              : &description "personal description"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pawel Kudzia,PhD(c),MASc, B.Eng"
+  name             : "Pawel Kudzia"
   avatar           : "profile.png"
-  bio              : "PhD Candidate,Engineering Science"
+  bio              : "PhD Candidate"
   location         : "Vancouver,Canada"
   employer         : "Simon Fraser University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=E6ib0I0AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=E6ib0I0AAAAJ&view_op=list_works&sortby=pubdate"
   email            : "pkudzia@sfu.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
