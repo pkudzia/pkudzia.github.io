@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching Philosophy "
-permalink: /teaching/
+permalink: /Teaching/
 excerpt: "Teaching"
 author_profile: true
 ---
