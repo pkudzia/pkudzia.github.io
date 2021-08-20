@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-conflict-preemption
 date: 2021-06-28
 venue: 'Conflict management and Peace Science'
-paperurl: '/files/paper1.pdf'
+paperurl: '/files/pdf/research/Turning the Lights on.pdf'
 link: 'https://doi.org/10.1177/07388942211015242'
 code: 'https://journals.sagepub.com/doi/suppl/10.1177/07388942211015242'
 github: 'https://github.com/jayrobwilliams/conflict-preemption'
