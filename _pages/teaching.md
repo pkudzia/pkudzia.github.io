@@ -4,6 +4,8 @@ title: "Teaching Philosophy "
 permalink: /teaching/
 author_profile: true
 ---
+[Teaching Positions](www.yahoo.ca){: .btn--research}   [Teaching Positions](www.yahoo.ca){: .btn--research}. [Teaching Positions](www.yahoo.ca){: .btn--research}
+
 My interest in engineering developed at a young age when I took apart the VCR. To encourage me, but leave the home functioning, my parents bought me Lego blocks where I would spend countless hours imagining, constructing, and discovering. These early experiences led to me pursuing part of my high school diploma at the Ontario Science Centre Science School, where I got the unique opportunity to tinker with public science exhibits and develop my science communication skills. \
 \
 Beyond my interest and passion for engineering, I have always felt a calling to teach. To me, teaching is a practice that must be continually cultivated. I think of a teacher as someone who is approachable, honest, and relatable to the learners. Fostering a welcoming environment as a teacher is important to me as it can positively impact the learning process, enhance the quality of the learning that happens, and be a motivation to the learners themselves [1]. To cultivate my teaching acumen, I have continually sought out diverse opportunities. So far, my teaching experiences are based on: 	
@@ -37,7 +39,5 @@ Student engagement. As an educator, I strive to incorporate experiential learnin
 [8]	A. W. Chickering, Applying the Seven Principles for Good Practice in Undergraduate Education: New Directions in Teaching and Learning, Number 47. Wiley, 1991\
 [9]	S. Hassel and N. Ridout, “An Investigation of First-Year Students’ and Lecturers' Expectations of University Education,” Front. Psychol., vol. 8, p. 2218, 2017\
 
-[Teaching Positions](www.yahoo.ca){: .btn--research}
 
-test
-======
+
