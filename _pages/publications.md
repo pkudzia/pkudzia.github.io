@@ -15,4 +15,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+Test
+==
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+*Test2*
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 <sup>*</sup> Equal authorship
