@@ -1,10 +1,8 @@
 ---
-permalink: /
-title: "Research"
-excerpt: "Research"
+layout: archive
+title: "Research "
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /Research/
 ---
 
 **Coming soon**
