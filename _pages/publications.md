@@ -1,16 +1,20 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
-Journal Articles 
-==
+**Journal Articles**
+
 {% include base_path %}
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-Conference
-==
+**Conference Papers**
+
+**Conference Abstracts**
+
+**Symposiums*
+
 
