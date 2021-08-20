@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Journal Articles** 
 
 title: "Test"
 collection: publications
@@ -16,14 +17,8 @@ code: 'https://journals.sagepub.com/doi/suppl/10.1177/07388942211015242'
 github: 'https://github.com/jayrobwilliams/conflict-preemption'
 
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**Conference Papers** 
 
-{% include base_path %}
+**Conference Abstracts** 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<sup>*</sup> Equal authorship
+**Journal Articles** 
