@@ -17,7 +17,7 @@ author_profile: true
 
 Test
 ==
-{% for post in site.publications reversed %}
+{% for post in site.publications.conferenceAbstracts reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
