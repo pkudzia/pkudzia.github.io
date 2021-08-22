@@ -14,7 +14,7 @@ Journal Articles
 Conference Papers
 ==
 {% include base_path %}
-{% for post in site.conferencePapers reversed %}
+{% for post in site.publications.confPapers reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
