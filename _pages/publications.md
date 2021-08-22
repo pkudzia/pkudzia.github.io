@@ -11,19 +11,22 @@ Journal Articles
   {% include archive-single.html %}
 {% endfor %}
 
-**Conference Papers**
+Conference Papers
+==
 {% include base_path %}
 {% for post in site.conferencePapers reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-**Conference Abstracts**
+Conference Abstracts
+==
 {% include base_path %}
 {% for post in site.conferenceAbstracts reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-**Symposiums*
+Academic Symposiums
+==
 {% include base_path %}
 {% for post in site.symposiums reversed %}
   {% include archive-single.html %}
