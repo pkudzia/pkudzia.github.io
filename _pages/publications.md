@@ -14,7 +14,6 @@ Journal Articles
 Conference Papers
 ==
 {% for post in site.conferenceAbstracts reversed %}
-  {% include archive-single.html %}
 {% endfor %}
 
 Conference Abstracts
