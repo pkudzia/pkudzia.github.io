@@ -4,7 +4,7 @@ title: "Research "
 permalink: /research/
 author_profile: true
 ---
-In general I am interested in increasing our understanding of how humans are able to move. We humans are this complex 'system' that is capable of rapidly adapting to changes in our environment, our terrain, and our task demands. For example, our ability to stabilize our body when the ground shifts,  change our movment speed on demand,  jump higher, or contorl our movement when walking around our neighbourhood is actually still poorly understood. With my research I hope to contribute novel studies to the what we do alreayd to further advance our understnainf. 
+I am interested in increasing our understanding of how humans move. We  are this complex 'system' that is capable of rapidly adapting to changes in our environment, our terrain, and our task demands. For example, we can quickly stabilize our body when the ground changes below our feet,  we can increase our movement speed on demand, jump-over obstacles in our path , and confidently navigate the changing terrain we encounter daily. With my research I hope to contribute novel studies to the what we do alreayd to further advance our understnainf. 
 is still poorly understand. The more we can learn about how the various compenets of our anatomy function together to allow for complex movement the better rehab
 
 **Coming soon**

@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: ""
 title: ""
 permalink: /publications/
 author_profile: true
@@ -15,6 +15,7 @@ Conference Papers
 ==
 Test
 
+{% include base_path %}
 {% for post in site.publications.confPapers reversed%}
   {% include archive-single.html %}
 {% endfor %}
@@ -28,3 +29,7 @@ Academic Symposiums
 
 
 
+{% include base_path %}
+{% for post in site.publications.confPapers reversed%}
+  {% include archive-single.html %}
+{% endfor %}
