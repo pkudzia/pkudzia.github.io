@@ -1,8 +1,8 @@
 ---
 title: "Conference"
 collection: publications
-permalink: /publication/1991-Conf
+permalink: /publication/ConferencePapers
 date: 1991-01-01
 venue: 'Engineering'
-citation: 'Paper'
+citation: 'Papers'
 ---
