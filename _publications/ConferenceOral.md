@@ -1,7 +1,7 @@
 ---
-title: "Conference Abstracts"
+title: "Conference Oral Presentation"
 collection: publications
-permalink: /publication/ConferenceAbstracts
+permalink: /publication/ConferenceOral
 date: 1980-12-12
 venue: 'Engineering'
 citation: '     '
