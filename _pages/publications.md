@@ -1,8 +1,8 @@
 ---
-layout: ""
+layout: "archive"
 title: ""
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 Journal Articles
 ==
