@@ -1,5 +1,5 @@
 ---
-layout: "archive"
+layout: "talk"
 title: ""
 permalink: /publications/
 author_profile: true
