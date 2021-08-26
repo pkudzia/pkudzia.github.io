@@ -9,8 +9,12 @@ Journal Articles
 {% include base_path %}
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-  {% for post in site.publications.confPapers reversed%}
+    {% endfor %}
+    
+{% for post in site.publications.confPapers reversed%}
   {% include archive-single.html %}
+  Journal Articles
+==
   {% endfor %}
 
 %**Conference Papers**
