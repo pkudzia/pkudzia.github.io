@@ -1,8 +1,8 @@
 ---
-title: "Conference Oral Presentation"
+title: " "
 collection: publications
 permalink: /publication/ConferenceOral
 date: 1980-12-12
 venue: 'Engineering'
-citation: '     '
+citation: 'Conference Oral Presentation'
 ---
