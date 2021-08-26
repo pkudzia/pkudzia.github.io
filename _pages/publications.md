@@ -13,9 +13,10 @@ Journal Articles
 
 Conference Papers
 ==
+Conference Papers
+==
 {% include base_path %}
-{% for post in site.publications.confPapers  %}
-  {% include archive-single.html %}
+{% for post in site.publications.confPapers reversed%}
 {% endfor %}
 
 Conference Abstracts
