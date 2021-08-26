@@ -13,10 +13,10 @@ Journal Articles
 
 Conference Papers
 ==
-Conference Papers
-==
-{% include base_path %}
+Test
+
 {% for post in site.publications.confPapers reversed%}
+  {% include archive-single.html %}
 {% endfor %}
 
 Conference Abstracts
