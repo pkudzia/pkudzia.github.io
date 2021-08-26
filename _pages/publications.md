@@ -12,21 +12,3 @@ Journal Articles
     {% endfor %}
 
 
-%**Conference Papers**
-%{% include base_path %}
-%{% for post in site.publications.confPapers reversed%}
-%  {% include archive-single.html %}
-%{% endfor %}
-%
-%Conference Abstracts
-%{% include base_path %}
-%{% for post in site.publications.confAbstracts reversed%}
-%  {% include archive-single.html %}
-%{% endfor %}
-%
-%Academic Symposiums
-%==
-%{% include base_path %}
-%{% for post in site.publications.confPapers reversed%}
-%  {% include archive-single.html %}
-%{% endfor %}
