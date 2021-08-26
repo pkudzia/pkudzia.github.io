@@ -19,7 +19,7 @@ Journal Articles
 
 Conference Abstracts
 {% include base_path %}
-{% for post in site.publications.confPapers reversed%}
+{% for post in site.publications.confAbstracts reversed%}
   {% include archive-single.html %}
 {% endfor %}
 
