@@ -9,4 +9,4 @@ author_profile: true
 **Coming soon**
 
 
-{% include my-gallery.html folder="images/test" %}
+{% include my-gallery.html folder="images" %}
