@@ -10,3 +10,4 @@ author_profile: true
 
 
 {% include my-gallery.html folder="images" %}
+{% include image-gallery2.html folder="/images/test" %}
