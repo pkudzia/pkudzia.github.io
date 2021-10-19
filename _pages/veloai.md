@@ -6,8 +6,8 @@ author_profile: true
 youtubeId: oxLiZlZfxi4
 ---
 
-**Coming Soon**
+**Coming Soon Winter 2021**
 
-Using computer vision, biomechanics, and deep learning to reinvent the sport of cycling. 
+Using computer vision, biomechanics, and open-source deep learning tools I am developing state-of the art sport science tools for improving the cycling experience.  
 
 {% include youtubePlayer.html id=page.youtubeId %}
