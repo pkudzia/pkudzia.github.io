@@ -1,5 +1,5 @@
 ---
-title: "  "
+title: " "
 collection: publications
 permalink: /publication/Papers
 date: 1970-12-12

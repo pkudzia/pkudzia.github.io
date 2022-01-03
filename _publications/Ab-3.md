@@ -1,5 +1,5 @@
 ---
-title: "A body worn portable exosuit can improve post stroke gait mechanics"
+title: "3. A body worn portable exosuit can improve post stroke gait mechanics"
 collection: publications
 permalink: /publication/Ab-3
 date: 1970-01-03
