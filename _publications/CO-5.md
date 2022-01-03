@@ -1,9 +1,8 @@
 ---
-title: "Characterizing the control of human leg external forces"
+title: "Characterizing the performance of human leg force control"
 collection: publications
-permalink: /publication/CO-1
-date: 1980-01-30
+permalink: /publication/CO-5
+date: 1980-01-24
 venue: 'Engineering'
-video:' https://www.youtube.com/watch?v=FxQMNlLwlO8&ab_channel=BioMechanic'
-citation: '<b>Kudzia P.</b>, Robinovitch S., and Donelan M., Characterizing the control of human leg external forces, <i>Canadian Society of Biomechanics</i>. Virtual Conference  <b>2021</b>'
+citation: '<b>Kudzia P.</b>, Robinovitch S., and Donelan M.,Characterizing the performance of human leg force control , <i>Canadian Society of Biomechanics</i>, Montreal, Canada. Conference Postponed <b>2020</b>'
 ---
