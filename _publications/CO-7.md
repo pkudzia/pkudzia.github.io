@@ -1,5 +1,5 @@
 ---
-title: "Characterizing the control of human leg external forces"
+title: "COP 7 | Characterizing the control of human leg external forces"
 collection: publications
 permalink: /publication/CO-7
 date: 1980-01-07

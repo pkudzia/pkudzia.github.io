@@ -1,5 +1,5 @@
 ---
-title: "The limits of controlling external force vectors"
+title: "COP 6 | The limits of controlling external force vectors"
 collection: publications
 permalink: /publication/CO-6
 date: 1980-01-06

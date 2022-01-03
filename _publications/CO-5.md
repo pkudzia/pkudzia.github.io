@@ -1,5 +1,5 @@
 ---
-title: "Characterizing the performance of human leg force control"
+title: "COP 5 | Characterizing the performance of human leg force control"
 collection: publications
 permalink: /publication/CO-5
 date: 1980-01-05

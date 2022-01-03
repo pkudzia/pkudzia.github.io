@@ -1,5 +1,5 @@
 ---
-title: "Using mathematical models and vertical jumping to study the limits to human agility"
+title: "COP 4 | Using mathematical models and vertical jumping to study the limits to human agility"
 collection: publications
 permalink: /publication/CO-4
 date: 1980-01-04
