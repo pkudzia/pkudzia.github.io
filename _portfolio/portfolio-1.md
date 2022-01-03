@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Estimating body segment  parameters using an inexpensive depth camera"
+excerpt: "Here I developed a system that allows people to 3D body scan humans. I wrote accompanying software to then estimate body segments parameters such as moments of inertia, segment masses, and lengths. <br/><img src='/images/BSP_Project.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
