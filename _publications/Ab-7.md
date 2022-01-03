@@ -1,5 +1,5 @@
 ---
-title: " 7 | Characterizing human leg force control"
+title: "7 | Characterizing human leg force control"
 collection: publications
 permalink: /publication/Ab-7
 date: 1970-01-07
