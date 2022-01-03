@@ -1,5 +1,5 @@
 ---
-title: "2. Soft Wearable Robots Can Increase Walking Speed and Distance after Stroke: Proof-of-Concept"
+title: "2 |  Soft Wearable Robots Can Increase Walking Speed and Distance after Stroke: Proof-of-Concept"
 collection: publications
 permalink: /publication/Ab-2
 date: 1970-01-02
