@@ -1,5 +1,5 @@
 ---
-title: " Simple mathematical models are insufficient in explaining vertical jumping"
+title: " 9 | Simple mathematical models are insufficient in explaining vertical jumping"
 collection: publications
 permalink: /publication/Ab-9
 date: 1970-01-09

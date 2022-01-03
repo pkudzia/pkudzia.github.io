@@ -1,5 +1,5 @@
 ---
-title: "Feasibility and reliability of estimating body segment inertial parameters with a Kinect"
+title: " 4 | Feasibility and reliability of estimating body segment inertial parameters with a Kinect"
 collection: publications
 permalink: /publication/Ab-4
 date: 1970-01-04

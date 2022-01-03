@@ -1,5 +1,5 @@
 ---
-title: " Passive Knee Exoskeleton Reduces Quadriceps Muscle Activation During Downhill Skiing: A Pilot Study"
+title: " 8 |  Passive Knee Exoskeleton Reduces Quadriceps Muscle Activation During Downhill Skiing: A Pilot Study"
 collection: publications
 permalink: /publication/Ab-8
 date: 1970-01-08
