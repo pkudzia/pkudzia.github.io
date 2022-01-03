@@ -1,5 +1,5 @@
 ---
-title: "A uni-lateral soft exosuit for the paretic ankle can reduce compensations related to post stroke gait"
+title: "Portable soft exosuit for paretic ankle assistance in overground walking after stroke"
 collection: publications
 permalink: /publication/CO-3
 date: 1980-01-22
