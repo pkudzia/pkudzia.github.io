@@ -1,5 +1,5 @@
 ---
-title: "COP 3 | Portable soft exosuit for paretic ankle assistance in overground walking after stroke"
+title: "3 | Portable soft exosuit for paretic ankle assistance in overground walking after stroke"
 collection: publications
 permalink: /publication/CO-3
 date: 1980-01-03

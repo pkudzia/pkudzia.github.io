@@ -1,5 +1,5 @@
 ---
-title: "CP 1 | A lightweight and efficient portable soft exosuit for paretic ankle assistance in walking after stroke"
+title: "1 | A lightweight and efficient portable soft exosuit for paretic ankle assistance in walking after stroke"
 collection: publications
 permalink: /publication/CP-ICRA
 date: 1991-01-01

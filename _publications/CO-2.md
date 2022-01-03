@@ -1,5 +1,5 @@
 ---
-title: "COP 2 | A lightweight and efficient portable soft exosuit for paretic ankle assistance in walking after stroke"
+title: "2 | A lightweight and efficient portable soft exosuit for paretic ankle assistance in walking after stroke"
 collection: publications
 permalink: /publication/CO-2
 date: 1980-01-02

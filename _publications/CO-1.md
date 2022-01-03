@@ -1,5 +1,5 @@
 ---
-title: "COP 1 | A uni-lateral soft exosuit for the paretic ankle can reduce compensations related to post stroke gait"
+title: " 1 | A uni-lateral soft exosuit for the paretic ankle can reduce compensations related to post stroke gait"
 collection: publications
 permalink: /publication/CO-1
 date: 1980-01-01

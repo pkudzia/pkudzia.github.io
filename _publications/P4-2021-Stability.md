@@ -1,5 +1,5 @@
 ---
-title: "JA 4 | The interplay between walking speed, economy, and stability after stroke"
+title: "4 | The interplay between walking speed, economy, and stability after stroke"
 collection: publications
 permalink: /publication/P6-2020-Stability
 date: 2021-01-04

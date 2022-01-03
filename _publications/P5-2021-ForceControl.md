@@ -1,5 +1,5 @@
 ---
-title: "JA 5 | Characterizing the performance of human leg external force control"
+title: "5 | Characterizing the performance of human leg external force control"
 collection: publications
 permalink: /publication/P5-2021-ForceControl
 date: 2021-01-05
