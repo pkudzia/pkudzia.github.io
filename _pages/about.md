@@ -12,8 +12,7 @@ I am a PhD Candidate in Engineering Science at Simon Fraser University in Vancou
 
 <img src="{{https://https://pkudzia.github.io/}}/images/exosuit.png" style="display: block; margin: auto;" />
 
-Media 
-https://news.harvard.edu/gazette/story/2017/07/with-exosuit-technology-post-stroke-patients-may-regain-their-normal-gait/
+
 
 
 
