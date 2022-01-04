@@ -1,5 +1,5 @@
 ---
-title: "5 | Characterizing the performance of human leg force control. [Video] (https://www.youtube.com/watch?v=FxQMNlLwlO8&t=41s&ab_channel=BioMechanic)""
+title: "5 | Characterizing the performance of human leg force control. [Video] (https://www.youtube.com/watch?v=FxQMNlLwlO8&t=41s&ab_channel=BioMechanic)"
 collection: publications
 permalink: /publication/CO-5
 date: 1980-01-05
