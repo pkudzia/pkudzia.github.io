@@ -1,5 +1,5 @@
 ---
-title: " 1 | Estimating body segment inertial parameters using a Microsoft Kinect"
+title: " 1 | Estimating body segment inertial parameters using a Microsoft Kinect. [Poster](files/abstracts/2015_OBC_POSTER.pdf)"
 collection: publications
 permalink: /publication/Ab-1
 date: 1970-01-01
