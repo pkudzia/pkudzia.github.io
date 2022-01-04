@@ -9,17 +9,14 @@ main:
 
   - title: "Teaching"
     url: /teaching/   
- 
-  - title: "Outreach"
-    url: /outreach/  
-        
+    
   - title: "Writing"
     url: /writing/
     
-  - title: "CV"
-    url: /cv/
-
   - title: "VeloAI"
     url: /veloai/
+
+  - title: "Mountaineering"
+    url: /mountain/
     
 
