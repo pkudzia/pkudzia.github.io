@@ -1,5 +1,5 @@
 ---
-title: "3 | Portable soft exosuit for paretic ankle assistance in overground walking after stroke"
+title: "3 | Portable soft exosuit for paretic ankle assistance in overground walking after stroke. [Video] (https://www.youtube.com/watch?v=5TnZpTCH7_w&ab_channel=DynamicWalking2018)"
 collection: publications
 permalink: /publication/CO-3
 date: 1980-01-03

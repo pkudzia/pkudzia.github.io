@@ -1,5 +1,5 @@
 ---
-title: " 6 | Speed-based changes to walking stability and economy may explain preferred walking speed after stroke"
+title: " 6 | Speed-based changes to walking stability and economy may explain preferred walking speed after stroke. [Poster](/files/abstracts/2018_WCB_POSTER.pdf) "
 collection: publications
 permalink: /publication/Ab-6
 date: 1970-01-06
