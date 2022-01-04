@@ -1,5 +1,5 @@
 ---
-title: "7 | Characterizing the control of human leg external forces. [Video] (https://www.youtube.com/watch?v=FxQMNlLwlO8&t=41s&ab_channel=BioMechanic)"
+title: "7 | Characterizing the control of human leg external forces. [Video](https://www.youtube.com/watch?v=FxQMNlLwlO8&t=41s&ab_channel=BioMechanic)"
 collection: publications
 permalink: /publication/CO-7
 date: 1980-01-07
