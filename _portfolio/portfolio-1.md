@@ -1,7 +1,8 @@
 ---
-title: "Development of a 3D body scanning system to estimate inertial parameters" 
-excerpt: "I developed a system that allows people to 3D body scan humans. I wrote accompanying software to then estimate body segments parameters such as moments of inertia, segment masses, and lengths. <br/><img src='/images/BSP_Project.png'>"
+title: "Characterizing the control of external force vectors" 
+excerpt: " To measure and characterize how well humans can control the forces beneath their feet, I build and programmed a custom rig. <br/><img src='/images/Force_Control.png'>"
 collection: portfolio
+
 ---
 
 
