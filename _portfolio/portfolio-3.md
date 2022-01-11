@@ -1,6 +1,6 @@
 ---
-title: "Exoskeletons for restoring gait after stroke " 
-excerpt: " As an engineering researcher/ biomechanist on this large scale project my focus was on assisting in experimental data collections, data analysis, and presentation. We would use the data to inform the design of new iterations of the wearable device. <br/><img src='/images/ExoSkeleton.png'>"
+title: "Deep Learning Methods in Biomechanics" 
+excerpt: "In this work i use open source tools to extract biomechanical variables from videos of humans walking, running, and moving. <br/><img src='/images/Yoga3.png'>"
 collection: portfolio
 ---
 

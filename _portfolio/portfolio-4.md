@@ -1,6 +1,6 @@
 ---
-title: "Development of a 3D body scanning system to estimate inertial parameters" 
-excerpt: "I developed a system that allows people to 3D body scan humans. I wrote accompanying software to then estimate body segments parameters such as moments of inertia, segment masses, and lengths. <br/><img src='/images/BSP_Project.png'>"
+title: "Exoskeletons for restoring gait after stroke " 
+excerpt: " As an engineering researcher/ biomechanist on this large scale project my focus was on assisting in experimental data collections, data analysis, and presentation. We would use the data to inform the design of new iterations of the wearable device. <br/><img src='/images/ExoSkeleton.png'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Deep Learning Methods in Biomechanics" 
-excerpt: "In this work i use open source tools to extract biomechanical variables from videos of humans walking, running, and moving. <br/><img src='/images/Yoga3.png'>"
+title: "Mathematical Modelling " 
+excerpt: "Here I develop mathematical models of the legs to better understand the development of external ground reaction forces <br/><img src='/images/JumpingModel.png'>"
 collection: portfolio
 ---
 
