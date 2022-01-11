@@ -4,7 +4,7 @@ title: "Teaching Philosophy "
 permalink: /teaching/
 author_profile: true
 ---
-[Teaching Positions](){: .btn--/teaching/teachingPositions}  [Diversity Statement](){: .btn--research}  
+[Teaching Positions](){: .btn--teaching/teachingPositions}  [Diversity Statement](){: .btn--research}  
 
 My interest in engineering developed at a young age when I took apart the VCR. To encourage me, but leave the home functioning, my parents bought me Lego blocks where I would spend countless hours imagining, constructing, and discovering. These early experiences led to me pursuing part of my high school diploma at the Ontario Science Centre Science School, where I got the unique opportunity to tinker with public science exhibits and develop my science communication skills.\
 \
