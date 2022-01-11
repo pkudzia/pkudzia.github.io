@@ -19,7 +19,7 @@ Beyond my interest and passion for engineering, I have always felt a calling to 
 * Participating in professional certifications such as the 13-week program in University teaching and learning at SFU to hone in on and get feedback on my teaching physiology and practice. 
 
 <img src="{{https://https://pkudzia.github.io/}}/images/equip.jpeg" style="display: block; margin: auto;" />
-\
+
 **In my experience engineering pedagogy can be heavily lecture-based theoretical coursework paired with only a few hands-on laboratory courses.** As a result, there can be a disconnect between the knowledge acquired in the classroom to relevance to practical applications [2]. Often only the students who are involved in extracurricular projects, internships, or research get hands-on experience making the connection between theory and practice. In my view then, learning is about getting the tools and experiences one needs to integrate critical thinking and agile problem-solving into novel engineering problems. I believe that providing students experiences where they can apply theory to practice early on in the curriculum is the best way to maximize understanding of learned engineering principles and instil the problem-solving acumen students will need in their future.\
 \
 Based on these ideas, my current teaching philosophy is to create and foster an environment in which students can learn deeply. This involves five teaching concepts: (1) student engagement, (2) fostering collaboration, (3) self-directed learning, (4) tools, and (5) frequent feedback.\
